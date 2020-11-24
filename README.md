@@ -1,6 +1,6 @@
 ### Hi, I'm Gowtham 👋
 
-## I am Data Anlayst and Software Developer 
+## I am Data Anlayst/ Software Developer 
 - 🔭 I’m currently working on Netflix Movie Data Analysis
 - 🌱 I’m currently learning Machine Learning using Python, Tableau, and Power BI
 - 💬 Ask me about any questions you have with Python, R, Tableau.
